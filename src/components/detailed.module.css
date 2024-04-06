@@ -1,0 +1,17 @@
+.category{
+    font-size: 3em;
+}
+.descrpt{
+    width: auto;
+}
+.containers{
+   width: 500px;
+   margin-left: 100px;
+   
+ 
+}
+
+.cardContainer {
+    margin-left: 500px;
+    margin-right: 500px;
+}
